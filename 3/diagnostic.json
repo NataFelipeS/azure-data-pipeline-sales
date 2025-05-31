@@ -1,0 +1,23 @@
+{
+    "now": "2025-05-31T01:32:54.553Z",
+    "perfNow": 3876841.7000000477,
+    "diagnosticCorrelation": "06aa5c4e-bf7f-440d-894c-6638460a0cd2",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.052025.12",
+        "environmentType": 3,
+        "resourceName": "adf-projetodados",
+        "resourceRegion": "brazilsouth",
+        "resourceGroup": "rg-projetodados",
+        "subscriptionId": "74ae3076-62ec-490e-8b74-b6819cc9c659",
+        "sessionId": "z61oQ6Z1c7m0Q88UU7xCDe",
+        "operationId": "",
+        "gitType": "GitHub",
+        "loggingKey": "1f22b55d-2045-4ec3-a0e3-3a9636c78069"
+    },
+    "additionalInfo": {
+        "selectedResource": "ds_sales_bronze_csv",
+        "selectedResourceType": "dataset"
+    }
+}

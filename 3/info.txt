@@ -1,0 +1,6 @@
+selected resource name:		ds_sales_bronze_csv
+selected resource type:		dataset
+data factory name:			adf-projetodados
+data factory location:		brazilsouth
+subscription id:		74ae3076-62ec-490e-8b74-b6819cc9c659
+time of download (UTC):		Sat, 31 May 2025 01:32:54 GMT
