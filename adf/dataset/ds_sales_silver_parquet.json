@@ -1,0 +1,19 @@
+{
+	"name": "ds_sales_silver_parquet",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "is_blob_storage_silver",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "silver"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": []
+	}
+}
